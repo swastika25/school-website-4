@@ -1,0 +1,22 @@
+
+.travel_mainDiv{
+   border: 1px solid hotpink; 
+}
+.travel_mainDiv img{
+    width:80%;
+}
+.travel_mainDiv h5 , .travel_mainDiv p{
+    margin:20px;
+}
+.movie_head{
+    font-size:20px;
+    padding:0px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.achivement_text span{
+    color:hotpink;
+}
